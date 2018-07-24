@@ -1,0 +1,19 @@
+E:\Lab CW Task\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+E:\Lab CW Task\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+E:\Lab CW Task\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+E:\Lab CW Task\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+E:\Lab CW Task\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+E:\Lab CW Task\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+E:\Lab CW Task\EncryptionDecryption\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+E:\Lab CW Task\EncryptionDecryption\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+E:\Lab CW Task\EncryptionDecryption\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+E:\Lab CW Task\EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+E:\Lab CW Task\EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+E:\Lab CW Task\EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.CoreCompileInputs.cache
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+F:\EvsStudentLabTasks\Lab2\Q3EncryptionDecryption\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
